@@ -1,0 +1,9 @@
+langchain-groq
+python-dotenv
+langchain-docling
+docling
+langchain-huggingface
+langchain-chroma
+langchain-community
+requests
+flask
